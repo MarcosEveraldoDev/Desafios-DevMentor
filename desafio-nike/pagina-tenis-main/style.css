@@ -74,12 +74,11 @@ body {
   align-items: center;
   width: 238px;
   height: 55px;
-  transition: background;
-
   font-size: 20px;
   font-family: "Nunito Sans";
   font-weight: 700;
   line-height: 23.3px;
+  transition: background 1s color 1s, border 1s;
 }
 
 #button:hover {
