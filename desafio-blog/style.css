@@ -79,6 +79,10 @@ h1 {
   color: #ffffff;
 }
 
+#button-1:hover{
+  background: rgba(255, 255, 255, 0.3);
+}
+
 #div-2 {
   margin-left: 40px;
   height: 360px;
@@ -121,6 +125,11 @@ h1 {
   font-family: "Quicksand";
   color: #ffffff;
 }
+
+#button-2:hover{
+  background: rgba(255, 255, 255, 0.3);
+}
+
 
 #div-3 {
   margin-left: 40px;
@@ -165,6 +174,11 @@ h1 {
   color: #ffffff;
 }
 
+#button-3:hover{
+  background: rgba(255, 255, 255, 0.3);
+}
+
+
 #div-4 {
   margin-left: 40px;
   height: 360px;
@@ -207,6 +221,11 @@ h1 {
   font-family: "Quicksand";
   color: #ffffff;
 }
+
+#button-4:hover{
+  background: rgba(255, 255, 255, 0.3);
+}
+
 
 #div-5 {
   margin-left: 40px;
@@ -251,6 +270,11 @@ h1 {
   color: #ffffff;
 }
 
+#button-5:hover{
+  background: rgba(255, 255, 255, 0.3);
+}
+
+
 #div-6 {
   margin-left: 40px;
   height: 360px;
@@ -293,6 +317,11 @@ h1 {
   font-family: "Quicksand";
   color: #ffffff;
 }
+
+#button-6:hover{
+  background: rgba(255, 255, 255, 0.3);
+}
+
 
 footer {
   display: block;
